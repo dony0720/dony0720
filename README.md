@@ -1,6 +1,5 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ykss.netlify.app/)](https://dony0720.github.io/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeongsangyu/)](https://www.linkedin.com/in/kyeongsangyu/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yukyeongsang@gmail.com)](mailto:wndtjr720@gmail.com)
 
 ### 👨🏻‍💻   JUNGSEOK SIN
