@@ -12,7 +12,7 @@
 ### 🛠  Tech Stack
 
 - 💻  Javascript | Typescript 
-- ⚙️  React | Next.js | React Native | Vue  
+- ⚙️  React | Vue  
 - 🛢  Firebase 
 
 ### ⚡ Activity
